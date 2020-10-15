@@ -1,0 +1,131 @@
+import { Description } from '@storybook/addon-docs/blocks';
+
+<Meta title='Гайдлайны|FAQ' />
+
+## Разработка
+
+Мы стараемся придерживаться следующих базовых принципов разработки:
+
+- [KISS](https://ru.wikipedia.org/wiki/KISS_%28%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%29)
+- [YAGNI](https://ru.wikipedia.org/wiki/YAGNI)
+- [DRY](https://ru.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself)
+
+Максимально простой код с низком порогом входа.
+
+### Колбэки
+
+Мы [решили](https://github.com/alfa-laboratory/core-components/issues/45#issuecomment-609640997), что колбэки в компонентах должны иметь общий вид:
+
+```tsx
+onSomeEvent(event, payload) => void;
+//
+onChange?: (
+    event?: ChangeEvent<HTMLInputElement>,
+    payload?: {
+        checked: boolean;
+        name: string;
+    },
+) => void;
+```
+
+### Обработчики событий
+
+```tsx
+/* Component.tsx */
+
+// Good
+
+const handleArrowClick = () => {};
+
+const handleArrowClick = useCallback(() => {}, []);
+
+// Bad
+
+function onArrowClick() {}
+
+const onArrowClick = function() {};
+
+const onArrowClick = () => {};
+```
+
+## Документация
+
+Документирование атрибутов React компонентов:
+
+```tsx
+// Good
+
+type InputProps = {
+    /**
+     * Размер компонента
+     */
+    size?: 's' | 'm' | 'l' | 'xl';
+};
+
+// Bad
+
+type InputProps = {
+    size?: 's' | 'm' | 'l' | 'xl';
+};
+```
+
+## Сторибук
+
+Для оформления сторибука используется формат [mdx](https://storybook.js.org/docs/formats/mdx-syntax/).
+
+Для каждого компонента должен быть оформлен гайд с описанием компонента и основными примерами использования.
+За основу можно взять гайд от любого другого компонента.
+
+### Песочница
+
+Чтобы дать возможность изучить компонент и его настройки более детально — можно оформить историю для песочницы.
+Эта история будет доступна во вкладке `Сanvas`.
+
+```jsx
+import { text, select, boolean } from '@storybook/addon-knobs';
+
+export const VIEWS = ['primary', 'secondary', 'outlined', 'link', 'ghost'];
+export const SIZES = ['xs', 's', 'm', 'l'];
+
+<Story name='Песочница'>
+    <Button
+        view={select('view', VIEWS)}
+        size={select('size', SIZES, 'm')}
+        type={select('type', ['button', 'reset', 'submit'])}
+        href={text('href', '')}
+        disabled={boolean('disabled', false)}
+        block={boolean('block', false)}
+    >
+        {text('label', 'Оплатить')}
+    </Button>
+</Story>;
+```
+
+### Создание переменных и функций
+
+Если нужно создать переменную или функцию внутри файла `.mdx` — добавьте ключевое слово `export` перед определением.
+
+```jsx
+// ERROR
+
+const SIZES = ['xs', 's', 'm', 'l'];
+
+// OK
+
+export const SIZES = ['xs', 's', 'm', 'l'];
+```
+
+### Использование хуков и сложной логики
+
+Чтобы в примере воспользоваться стейтом или другими хуками — оберните свой код в `React.createElement`.
+
+```jsx
+<Preview>
+    {React.createElement(() => {
+        const [show, setShow] = React.useState(false);
+        const handleClick = () => setShow(!show);
+
+        return <Button onClick={handleClick}>{show ? 'hide' : 'show'}</Button>;
+    })}
+</Preview>
+```

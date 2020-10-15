@@ -1,0 +1,9 @@
+import React from 'react';
+import cn from 'classnames';
+import { ArrowProps } from '../../typings';
+
+import styles from './index.module.css';
+
+export const Arrow = ({ open }: ArrowProps) => (
+    <span className={cn(styles.arrow, { [styles.open]: open })} />
+);
