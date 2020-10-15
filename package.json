@@ -1,6 +1,6 @@
 {
-  "name": "@alfalab/core-components",
-  "version": "3.0.1",
+  "name": "core-components-test",
+  "version": "1.0.0",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -8,12 +8,8 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alfa-laboratory/core-components.git"
+    "url": "git+https://github.com/IBelyaev/core-components-test"
   },
-  "bugs": {
-    "url": "https://github.com/alfa-laboratory/core-components/issues"
-  },
-  "homepage": "https://github.com/alfa-laboratory/core-components#readme",
   "scripts": {
     "build": "./bin/build.sh",
     "start": "start-storybook -p 9009 -c .storybook -s ./.storybook/public",
