@@ -11,7 +11,9 @@
                 "**/__snapshots__/**",
                 "*.test.*"
             ]
-
+        },
+        "publish": {
+            "conventionalCommits": true
         }
     }
 }

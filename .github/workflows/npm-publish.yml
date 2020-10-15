@@ -1,0 +1,16 @@
+name: Create new library package
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Create new version
+        run: yarn && yarn build && yarn lerna publish
+        env:
+          CI: true
