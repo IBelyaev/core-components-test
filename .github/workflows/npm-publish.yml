@@ -17,6 +17,3 @@ jobs:
 
       - name: Create new version
         run: yarn && yarn build && yarn lerna publish
-        env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          CI: true
