@@ -1,5 +1,0 @@
-@import './button/mobile.css';
-
-@define-mixin theme-mobile {
-    @mixin button-mobile;
-}

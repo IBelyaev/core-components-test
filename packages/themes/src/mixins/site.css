@@ -1,5 +1,0 @@
-@import './tabs/site.css';
-
-@define-mixin theme-site {
-    @mixin tabs-site;
-}

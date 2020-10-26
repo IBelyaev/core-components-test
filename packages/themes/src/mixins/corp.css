@@ -1,5 +1,0 @@
-@import './button/corp.css';
-
-@define-mixin theme-corp {
-    @mixin button-corp;
-}
