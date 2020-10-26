@@ -16,9 +16,9 @@ jobs:
       #       NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Create new version
-        run: yarn && yarn build && yarn semantic-release -e semantic-release-monorepo
+        run: yarn && yarn build && lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
           CI: true
           # NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
-          
+
