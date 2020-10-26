@@ -29,7 +29,8 @@
     "pub:major": "RELEASE_TYPE=\"major\" ./bin/publish.sh",
     "release": "standard-version --no-verify --releaseCommitMessageFormat \"chore: release\"",
     "postbuild": "yarn purgecss",
-    "purgecss": "./bin/purgecss.sh"
+    "purgecss": "./bin/purgecss.sh",
+    "semantic-release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo"
   },
   "browserslist": {
     "production": [
