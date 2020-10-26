@@ -20,7 +20,7 @@ const extractContentFromMixins = css => {
 };
 
 // Прогоняет контент через postcss, применяя postcss-color-mod-function
-const filesWithVars = glob.sync(path.resolve(__dirname, '../packages/vars/src/*.css'));
+const filesWithVars = glob.sync(path.resolve(__dirname, '../packages/vars-test/src/*.css'));
 
 const processPostCss = async (content, cssFile) =>
     postcss([
