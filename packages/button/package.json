@@ -1,5 +1,5 @@
 {
-    "name": "@alfalab/core-components-button",
+    "name": "@alfalab/core-components-button-test",
     "version": "1.6.1",
     "description": "",
     "gitHead": "f054fef20200664c65e2501ef1f916c555cdf05d",
@@ -17,7 +17,7 @@
         "react": "^16.9.0"
     },
     "dependencies": {
-        "@alfalab/core-components-loader": "^1.0.0",
+        "@alfalab/core-components-loader-test": "^1.0.0",
         "@alfalab/hooks": "^0.8.1",
         "react-merge-refs": "^1.1.0"
     }
