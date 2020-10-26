@@ -15,7 +15,7 @@ Object.entries(typography).forEach(([name, rules]) => {
     );
 });
 
-const cssPath = path.resolve(__dirname, '../packages/vars/src/typography.css');
+const cssPath = path.resolve(__dirname, '../packages/vars-test/src/typography.css');
 
 fs.writeFileSync(cssPath, out.join('\n'));
 

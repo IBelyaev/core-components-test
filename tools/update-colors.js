@@ -23,7 +23,7 @@ glob(path.join(colorsDir, 'colors*.json'), {}, (err, files) => {
 
         const cssPath = path.resolve(
             __dirname,
-            '../packages/vars/src',
+            '../packages/vars-test/src',
             path
                 .basename(pathname)
                 .replace('.json', '.css')

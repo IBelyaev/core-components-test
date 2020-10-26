@@ -1,4 +1,4 @@
-@import '../../../../vars/src/index.css';
+@import '../../../../vars-test/src/index.css';
 
 @define-mixin pure-input-click {
     /* core vars */
