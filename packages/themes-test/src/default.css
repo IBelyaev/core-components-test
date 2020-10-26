@@ -1,8 +1,9 @@
-@import '../../vars/src/colors.css';
-@import '../../vars/src/colors-indigo.css';
-@import '../../vars/src/shadows-indigo.css';
-@import '../../vars/src/gaps.css';
-@import '../../vars/src/typography.css';
+@import '../../vars-test/src/colors.css';
+@import '../../vars-test/src/colors-indigo.css';
+@import '../../vars-test/src/shadows-indigo.css';
+@import '../../vars-test/src/gaps.css';
+@import '../../vars-test/src/typography.css';
+@import '../../vars-test/src/mixins.css';
 
 :root {
     --text-primary-color: var(--color-dark-indigo);

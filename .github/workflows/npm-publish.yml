@@ -18,4 +18,4 @@ jobs:
       - name: Create new version
         run: yarn && yarn build # && yarn lerna publish --canary --yes
         env:
-          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+          # NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
