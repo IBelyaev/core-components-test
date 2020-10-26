@@ -24,7 +24,7 @@ export type ComponentProps = {
     rightAddons?: React.ReactNode;
 
     /**
-     * Размер компонента
+     * Размер компонентa
      */
     size?: 'xs' | 's' | 'm' | 'l';
 
