@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/IBelyaev/core-components-test/compare/v1.2.0...v1.2.1) (2020-11-02)
+
+
+### Bug Fixes
+
+* **core-components-loader-test:** adds some changes ([8c90459](https://github.com/IBelyaev/core-components-test/commit/8c90459114a261a368f4ce42cb3042b54131da87))
+* **root:** adds some changes ([7d96138](https://github.com/IBelyaev/core-components-test/commit/7d96138a301537b059f1a20a7ee90a2684d23f0a))
+* **root:** adds some changes ([4b55206](https://github.com/IBelyaev/core-components-test/commit/4b552062dc6ce547147cb3cc800155d3b063121d))
+
 # [1.2.0](https://github.com/IBelyaev/core-components-test/compare/v1.1.0...v1.2.0) (2020-11-02)
 
 
