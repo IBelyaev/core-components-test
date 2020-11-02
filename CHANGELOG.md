@@ -1,3 +1,39 @@
+# 1.0.0 (2020-11-02)
+
+
+### Bug Fixes
+
+* adds token for npm ([5d3580a](https://github.com/IBelyaev/core-components-test/commit/5d3580ac91abb69f9476c149f6d3694bab5c64ea))
+* adds token for npm ([eff1093](https://github.com/IBelyaev/core-components-test/commit/eff1093671a9ef8d9923f75a649f0cf8aac4f426))
+* adds token for npm ([4d50ece](https://github.com/IBelyaev/core-components-test/commit/4d50ecebdf909d2a22690df3c648bb8ac230e4aa))
+* **core-components-button-test:** fixed CI'plan ([e808d1c](https://github.com/IBelyaev/core-components-test/commit/e808d1c459b30b7d540248e34fa65481740e4577))
+* **core-components-button-test:** ololol ([c91927a](https://github.com/IBelyaev/core-components-test/commit/c91927a245a4a4aa44297be9e8fbb96c56c01b6b))
+* **core-components-button-test:** renamed packages ([23a07f2](https://github.com/IBelyaev/core-components-test/commit/23a07f2acb36055547dd8ab4868b48aa04375e5d))
+* **core-components-button-test:** test ([20c2e99](https://github.com/IBelyaev/core-components-test/commit/20c2e99c8f4ca65314e0675da6dab110d91fa670))
+* **core-components-button-test:** test ([37ab160](https://github.com/IBelyaev/core-components-test/commit/37ab160e0fd404f677bebf445ac4bb8644d9b835))
+* **core-components-loader-test:** test ([7204a17](https://github.com/IBelyaev/core-components-test/commit/7204a1715fe3694fd09956145b5927dca62c1f6d))
+* **core-components-loader-test:** test ([cbe73e7](https://github.com/IBelyaev/core-components-test/commit/cbe73e7d75d9a93026c1dd74f189c54020fafd78))
+* **core-components-loader-test:** test ([929a569](https://github.com/IBelyaev/core-components-test/commit/929a569313198502a7d2272edc6f3421e9a36618))
+* **core-components-themes-test:** fixed paths ([e564977](https://github.com/IBelyaev/core-components-test/commit/e56497783347620f305f22b813548f84e1992d04))
+* **core-components-themes-test:** fixed paths ([f718ccc](https://github.com/IBelyaev/core-components-test/commit/f718ccc01cbea4e8fbc8f518b56040d183aa5630))
+* **core-components-themes-test:** fixed paths ([1a9fa9a](https://github.com/IBelyaev/core-components-test/commit/1a9fa9a638f7a22e0cbf4b346172e22f39a33725))
+* **core-components-themes-test:** fixed paths ([1255071](https://github.com/IBelyaev/core-components-test/commit/1255071b5158da4eb7df4cb39d144fd7a776909d))
+* **root:** some changes ([1f9c98f](https://github.com/IBelyaev/core-components-test/commit/1f9c98ff3afb01692b4b8dd9e163dae49f3f4b2f))
+
+
+### Features
+
+* deleted unnecessary components ([24a23c4](https://github.com/IBelyaev/core-components-test/commit/24a23c476e024ae145514ddcd7c88ac46a07b223))
+* init ([65696a6](https://github.com/IBelyaev/core-components-test/commit/65696a6f48aade0aa0f1f1e0008dd5982d61c9d1))
+* test ([b98dfc6](https://github.com/IBelyaev/core-components-test/commit/b98dfc65124a60ea0d9aa551af55cd8efa9b91c2))
+* **core-components-button-test:** adds semantic-release ([6765f25](https://github.com/IBelyaev/core-components-test/commit/6765f259284c345a6ccc6bdf6a412f5ab4658aaa))
+* **core-components-button-test:** fix ([4d9604d](https://github.com/IBelyaev/core-components-test/commit/4d9604dd1c5b4d3dc44d6750f747b6d5876b16db))
+* **core-components-button-test:** some major changes ([0ffb4ae](https://github.com/IBelyaev/core-components-test/commit/0ffb4aeec21ddf21d6796bc8f67d6dcc887f2a6f))
+* **core-components-button-test:** some major changes ([af15485](https://github.com/IBelyaev/core-components-test/commit/af154854a4167f0796082d9f00017129de1b55d9))
+* **core-components-themes-test:** adds themes folder ([43afbb4](https://github.com/IBelyaev/core-components-test/commit/43afbb4c4f6e6ae4aa7a57c36f05505ee0926dec))
+* **npm-publish:** deleted some plan's scripts ([7a18360](https://github.com/IBelyaev/core-components-test/commit/7a18360cc2dfd6fc62f34d57962608662d2de05c))
+* **root:** adds some new rules ([a41592a](https://github.com/IBelyaev/core-components-test/commit/a41592a61298c2908157b63ef6f47ee89a0024d0))
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
