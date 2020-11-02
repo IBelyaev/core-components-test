@@ -1,3 +1,10 @@
+# [@alfalab/core-components-loader-test-v1.2.0](https://github.com/IBelyaev/core-components-test/compare/@alfalab/core-components-loader-test-v1.1.0...@alfalab/core-components-loader-test-v1.2.0) (2020-11-02)
+
+
+### Features
+
+* **core-components-loader-test:** adds some changes ([ec867aa](https://github.com/IBelyaev/core-components-test/commit/ec867aab48ee88aba31a6246a0918de66e2f3913))
+
 # [@alfalab/core-components-loader-test-v1.1.0](https://github.com/IBelyaev/core-components-test/compare/@alfalab/core-components-loader-test-v1.0.0...@alfalab/core-components-loader-test-v1.1.0) (2020-11-02)
 
 
