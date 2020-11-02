@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/IBelyaev/core-components-test/compare/v1.0.0...v1.1.0) (2020-11-02)
+
+
+### Features
+
+* **core-components-loader-test:** adds some changes ([4f38f65](https://github.com/IBelyaev/core-components-test/commit/4f38f655cd0c2f716d88f7ba8c533e2f3935a297))
+* **root:** some changes ([2c3584d](https://github.com/IBelyaev/core-components-test/commit/2c3584d7fe1adb925fe9c6385dd2bb4b2f092845))
+
 # 1.0.0 (2020-11-02)
 
 
