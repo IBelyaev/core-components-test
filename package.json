@@ -1,6 +1,6 @@
 {
   "name": "core-components-test",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -201,25 +201,29 @@
     }
   },
   "release": {
-      "plugins": [
-          "@semantic-release/commit-analyzer",
-          "@semantic-release/release-notes-generator",
-          "@semantic-release/changelog",
-            [
-                "@semantic-release/npm",
-                {
-                    "pkgRoot": "./dist",
-                    "npmPublish": false
-                }
-            ],
-          [
-              "@semantic-release/npm",
-              { "npmPublish": false }
-          ],
-          "@semantic-release/git",
-          "@semantic-release/github"
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      [
+        "@semantic-release/npm",
+        {
+          "pkgRoot": "./dist",
+          "npmPublish": false
+        }
       ],
-      "branches": ["master"],
-      "repositoryUrl": "https://github.com/IBelyaev/core-components-test"
+      [
+        "@semantic-release/npm",
+        {
+          "npmPublish": false
+        }
+      ],
+      "@semantic-release/git",
+      "@semantic-release/github"
+    ],
+    "branches": [
+      "master"
+    ],
+    "repositoryUrl": "https://github.com/IBelyaev/core-components-test"
   }
 }
