@@ -199,27 +199,5 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  },
-  "release": {
-      "plugins": [
-          "@semantic-release/commit-analyzer",
-          "@semantic-release/release-notes-generator",
-          "@semantic-release/changelog",
-            [
-                "@semantic-release/npm",
-                {
-                    "pkgRoot": "./dist",
-                    "npmPublish": false
-                }
-            ],
-          [
-              "@semantic-release/npm",
-              { "npmPublish": false }
-          ],
-          "@semantic-release/git",
-          "@semantic-release/github"
-      ],
-      "branches": ["master"],
-      "repositoryUrl": "https://github.com/IBelyaev/core-components-test"
   }
 }
