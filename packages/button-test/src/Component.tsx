@@ -3,7 +3,7 @@ import cn from 'classnames';
 import mergeRefs from 'react-merge-refs';
 
 import { useFocus } from '@alfalab/hooks';
-import { Loader } from '@alfalab/core-components-loader-test';
+import { Loader } from 'core-components-loader-test';
 
 import styles from './index.module.css';
 

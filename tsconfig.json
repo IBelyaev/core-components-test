@@ -18,7 +18,7 @@
         "declaration": true,
         "baseUrl": ".",
         "paths": {
-            "@alfalab/core-components-*": ["packages/*/src"]
+            "core-components-*": ["packages/*/src"]
         }
     },
     "exclude": ["node_modules", "dist", "**/*.stories*", "**/*.test*"],
