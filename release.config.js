@@ -3,12 +3,13 @@ module.exports = {
         '@semantic-release/commit-analyzer',
         '@semantic-release/release-notes-generator',
         '@semantic-release/changelog',
-        /*
-         * [
-         *     '@semantic-release/npm',
-         *     { pkgRoot: './dist' },
-         * ],
-         */
+        [
+            '@semantic-release/npm',
+            {
+                pkgRoot: './dist',
+                npmPublish: false,
+            },
+        ],
         [
             '@semantic-release/npm',
             { npmPublish: false },
