@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/IBelyaev/core-components-test/compare/v1.2.3...v1.2.4) (2020-11-03)
+
+
+### Bug Fixes
+
+* **root:** some CI rules ([2e90888](https://github.com/IBelyaev/core-components-test/commit/2e908883ac7712c58478abc69fed35e42dadcc91))
+
 ## [1.2.3](https://github.com/IBelyaev/core-components-test/compare/v1.2.2...v1.2.3) (2020-11-03)
 
 
