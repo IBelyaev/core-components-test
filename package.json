@@ -31,7 +31,8 @@
     "postbuild": "yarn purgecss",
     "purgecss": "./bin/purgecss.sh",
     "semantic-release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo",
-    "semantic-release-root": "semantic-release"
+    "semantic-release-root": "semantic-release",
+    "lerna-pub": "lerna publish from-git --yes"
   },
   "browserslist": {
     "production": [
