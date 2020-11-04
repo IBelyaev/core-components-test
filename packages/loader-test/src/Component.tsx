@@ -5,7 +5,7 @@ import styles from './index.module.css';
 
 export type LoaderProps = {
     /**
-     * Дополнительный класс ц
+     * Дополнительный класс
      */
     className?: string;
 
