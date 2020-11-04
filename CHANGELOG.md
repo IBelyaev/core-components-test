@@ -1,3 +1,11 @@
+## [1.2.10](https://github.com/IBelyaev/core-components-test/compare/v1.2.9...v1.2.10) (2020-11-04)
+
+
+### Bug Fixes
+
+* **core-components-button-test:** some fixes ([2b068b3](https://github.com/IBelyaev/core-components-test/commit/2b068b38346ed22222183b8316334c6e01e7b6dd))
+* **root:** some CI rules ([0004644](https://github.com/IBelyaev/core-components-test/commit/00046446eec532e53f4023584b7d7e3fca815489))
+
 ## [1.2.9](https://github.com/IBelyaev/core-components-test/compare/v1.2.8...v1.2.9) (2020-11-03)
 
 
