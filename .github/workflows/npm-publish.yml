@@ -16,7 +16,7 @@ jobs:
             NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Create new version
-        run: yarn && yarn build && yarn semantic-release-root && yarn semantic-release && yarn publish dist --new-version 1.2.7 --no-git-tag-version && yarn lerna publish from-git --yes
+        run: yarn && yarn build && yarn semantic-release-root && yarn semantic-release && yarn publish dist --new-version 1.2.8 --no-git-tag-version && yarn lerna publish from-git --yes
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
