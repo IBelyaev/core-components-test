@@ -1,3 +1,3 @@
 #!/bin/bash
 
-npm run lerna-pub 
+npm run lerna-pub
