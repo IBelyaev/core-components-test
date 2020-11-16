@@ -7,18 +7,30 @@ on:
 
 jobs:
   build:
+    env:
+      CI: true
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+
     steps:
       - uses: actions/checkout@v1
-      - name: Login in NPM
-        run: echo //registry.npmjs.org/:_authToken=${NPM_TOKEN} > .npmrc # put to separate script
-        env:
-            NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - name: Build app
+        run: yarn && yarn build
 
-      - name: Create new version
-        run: yarn && yarn build && yarn semantic-release-root && yarn semantic-release && yarn publish dist --new-version echo `git describe --tags $(git rev-list --tags --max-count=1)` |  sed -e "s/^v//" --no-git-tag-version && npm run lerna-pub 
+      - name: Publish root package
+        run: |
+          yarn semantic-release-root
+          sh ${{ github.workspace }}/workflows/publish-root-package.sh
+  
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
-          CI: true
 
+      - name: Publish separate packages
+        run: |
+          yarn semantic-release
+          sh ${{ github.workspace }}/workflows/publish-packages.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
