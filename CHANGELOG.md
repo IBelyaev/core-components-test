@@ -1,3 +1,10 @@
+## [1.2.24](https://github.com/IBelyaev/core-components-test/compare/v1.2.23...v1.2.24) (2020-11-16)
+
+
+### Bug Fixes
+
+* **root:** changed yml ([140c027](https://github.com/IBelyaev/core-components-test/commit/140c02772e8c3b8b50d06c0a54e66808f46c4f82))
+
 ## [1.2.23](https://github.com/IBelyaev/core-components-test/compare/v1.2.22...v1.2.23) (2020-11-16)
 
 
