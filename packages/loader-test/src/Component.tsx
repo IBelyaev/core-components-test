@@ -5,7 +5,7 @@ import styles from './index.module.css';
 
 export type LoaderProps = {
     /**
-     * Дополнительный класс ололололололол
+     * Дополнительный класс
      */
     className?: number;
 
@@ -14,7 +14,6 @@ export type LoaderProps = {
      */
     dataTestId?: string;
 };
-
 
 export const Loader: React.FC<LoaderProps> = ({ className, dataTestId }) => (
     <svg
