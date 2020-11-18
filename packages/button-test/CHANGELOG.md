@@ -1,3 +1,10 @@
+# [core-components-button-test-v1.1.0](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.0.3...core-components-button-test-v1.1.0) (2020-11-18)
+
+
+### Features
+
+* adds some for test ([bee8a52](https://github.com/IBelyaev/core-components-test/commit/bee8a5228852d6388a2bedf0f086707d7534181f))
+
 # [core-components-button-test-v1.0.3](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.0.2...core-components-button-test-v1.0.3) (2020-11-18)
 
 
