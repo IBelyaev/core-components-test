@@ -18,11 +18,6 @@ jobs:
       - name: Build app
         run: yarn && yarn build
 
-      - name: Set NPM Token Action
-        uses: filipstefansson/set-npm-token-action@v1
-        with:
-          token: ${{ secrets.NPM_TOKEN }}
-
       - name: Publish root package
         run: |
           yarn semantic-release-root
