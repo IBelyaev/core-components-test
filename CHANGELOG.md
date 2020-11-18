@@ -1,3 +1,15 @@
+# [1.6.0](https://github.com/IBelyaev/core-components-test/compare/v1.5.0...v1.6.0) (2020-11-18)
+
+
+### Bug Fixes
+
+* **core-components-button-test:** changed something ([403151b](https://github.com/IBelyaev/core-components-test/commit/403151b83f45e6718574e8a4b3c2b347bdbd0cb2))
+
+
+### Features
+
+* **core-components-loader-test:** adds olololololo to comment ([3552740](https://github.com/IBelyaev/core-components-test/commit/3552740adc7485ed55362ab0d8308ed2cfdcbb9e))
+
 # [1.5.0](https://github.com/IBelyaev/core-components-test/compare/v1.4.0...v1.5.0) (2020-11-18)
 
 
