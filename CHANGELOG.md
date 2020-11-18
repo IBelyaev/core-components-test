@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/IBelyaev/core-components-test/compare/v2.0.0...v2.1.0) (2020-11-18)
+
+
+### Features
+
+* adds some for test ([cd838a2](https://github.com/IBelyaev/core-components-test/commit/cd838a2e006e4d9055b325817aee7bff1afd127b))
+
 # [2.0.0](https://github.com/IBelyaev/core-components-test/compare/v1.6.0...v2.0.0) (2020-11-18)
 
 
