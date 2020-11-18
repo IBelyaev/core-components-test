@@ -7,13 +7,14 @@ export type LoaderProps = {
     /**
      * Дополнительный класс ололололололол
      */
-    className?: string;
+    className?: number;
 
     /**
      * Идентификатор для систем автоматизированного тестирования
      */
     dataTestId?: string;
 };
+
 
 export const Loader: React.FC<LoaderProps> = ({ className, dataTestId }) => (
     <svg
