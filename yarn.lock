@@ -7649,6 +7649,11 @@ copyfiles@^2.2.0:
     through2 "^2.0.1"
     yargs "^13.2.4"
 
+core-components-loader-test@^1.0.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/core-components-loader-test/-/core-components-loader-test-1.2.0.tgz#f3155e664d1ecf683e82dcb2b56c1eb3a1419170"
+  integrity sha512-F892DY3pgOcarA/qSwGMbzN2PqUdXt4DUCG/7HIc6wCDbNP++5C7yx+fO30/zuMvqlclywYTe01xWSF3Xsc5yQ==
+
 core-js-compat@^3.6.2:
   version "3.6.5"
   resolved "https://registry.yarnpkg.com/core-js-compat/-/core-js-compat-3.6.5.tgz#2a51d9a4e25dfd6e690251aa81f99e3c05481f1c"
