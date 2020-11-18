@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/IBelyaev/core-components-test/compare/v1.4.0...v1.5.0) (2020-11-18)
+
+
+### Features
+
+* adds some script ([d0a4acf](https://github.com/IBelyaev/core-components-test/commit/d0a4acf538463c38268daee14f91865bb19c78be))
+
 # [1.4.0](https://github.com/IBelyaev/core-components-test/compare/v1.3.0...v1.4.0) (2020-11-18)
 
 
