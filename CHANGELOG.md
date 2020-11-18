@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/IBelyaev/core-components-test/compare/v1.6.0...v2.0.0) (2020-11-18)
+
+
+### Bug Fixes
+
+* **core-components-button-test:** fix ([#56](https://github.com/IBelyaev/core-components-test/issues/56)) ([923476d](https://github.com/IBelyaev/core-components-test/commit/923476dbf9d8e25405ee241a65290c4b1f2bef96))
+
+
+### Code Refactoring
+
+* **core-components-button-test:** change prop type ([#55](https://github.com/IBelyaev/core-components-test/issues/55)) ([1150773](https://github.com/IBelyaev/core-components-test/commit/1150773e6941fd0e840cc9ae85b5a543db6cd0b2))
+
+
+### BREAKING CHANGES
+
+* **core-components-button-test:** !!!
+
 # [1.6.0](https://github.com/IBelyaev/core-components-test/compare/v1.5.0...v1.6.0) (2020-11-18)
 
 
