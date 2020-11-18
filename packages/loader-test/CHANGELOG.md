@@ -1,3 +1,15 @@
+# [core-components-loader-test-v2.0.0](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v1.2.0...core-components-loader-test-v2.0.0) (2020-11-18)
+
+
+### Code Refactoring
+
+* **core-components-button-test:** change prop type ([#55](https://github.com/IBelyaev/core-components-test/issues/55)) ([1150773](https://github.com/IBelyaev/core-components-test/commit/1150773e6941fd0e840cc9ae85b5a543db6cd0b2))
+
+
+### BREAKING CHANGES
+
+* **core-components-button-test:** !!!
+
 # [core-components-loader-test-v1.2.0](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v1.1.0...core-components-loader-test-v1.2.0) (2020-11-18)
 
 
