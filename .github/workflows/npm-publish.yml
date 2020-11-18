@@ -18,6 +18,11 @@ jobs:
       - name: Build app
         run: yarn && yarn build
 
+      - name: Set NPM Token Action
+        uses: filipstefansson/set-npm-token-action@v1
+        with:
+          token: ${{ secrets.NPM_TOKEN }}
+
       - name: Publish root package
         run: |
           yarn semantic-release-root
@@ -25,7 +30,7 @@ jobs:
   
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
-          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Publish separate packages
         run: |
@@ -33,5 +38,5 @@ jobs:
           sh ${{ github.workspace }}/.github/workflows/publish-packages.sh
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
-          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
