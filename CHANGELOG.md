@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/IBelyaev/core-components-test/compare/v1.3.0...v1.4.0) (2020-11-18)
+
+
+### Features
+
+* some for test ([119e68a](https://github.com/IBelyaev/core-components-test/commit/119e68a4fc2991f53086f6877210211b7754969a))
+* **core-components-loader-test:** some for test ([d558b9d](https://github.com/IBelyaev/core-components-test/commit/d558b9d7952493584245ccba45705d1234b3ac3d))
+
 # [1.3.0](https://github.com/IBelyaev/core-components-test/compare/v1.2.24...v1.3.0) (2020-11-17)
 
 
