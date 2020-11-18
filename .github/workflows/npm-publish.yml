@@ -38,3 +38,4 @@ jobs:
           sh ${{ github.workspace }}/.github/workflows/publish-packages.sh
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
