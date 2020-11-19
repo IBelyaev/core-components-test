@@ -9,7 +9,7 @@ import styles from './index.module.css';
 
 export type ComponentProps = {
     /**
-     * Тип кнопкиS
+     * Тип кнопки
      */
     view?: 'primary' | 'secondary' | 'outlined' | 'filled' | 'link' | 'ghost';
 
