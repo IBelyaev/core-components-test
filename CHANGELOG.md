@@ -1,3 +1,11 @@
+# [2.9.0](https://github.com/IBelyaev/core-components-test/compare/v2.8.0...v2.9.0) (2020-11-19)
+
+
+### Features
+
+* **core-components-button-test:** add some ([65b50d3](https://github.com/IBelyaev/core-components-test/commit/65b50d39f696813d5089a6706f0b3cd1f1b3fab5))
+* add some ([fc0fec3](https://github.com/IBelyaev/core-components-test/commit/fc0fec31d49a9720a79fc87de8dbac35ccba9907))
+
 # [2.8.0](https://github.com/IBelyaev/core-components-test/compare/v2.7.1...v2.8.0) (2020-11-19)
 
 
