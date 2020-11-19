@@ -1,3 +1,10 @@
+# [core-components-button-test-v1.6.0](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.5.0...core-components-button-test-v1.6.0) (2020-11-19)
+
+
+### Features
+
+* **core-components-button-test:** olololo ([7ebae9f](https://github.com/IBelyaev/core-components-test/commit/7ebae9fc57e3e7387b020a0411551a620d6ba46e))
+
 # [core-components-button-test-v1.5.0](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.4.0...core-components-button-test-v1.5.0) (2020-11-19)
 
 
