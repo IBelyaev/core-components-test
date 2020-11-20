@@ -15,6 +15,9 @@ export type LoaderProps = {
     dataTestId?: string;
 };
 
+/**
+ *
+ */
 export const Loader: React.FC<LoaderProps> = ({ className, dataTestId }) => (
     <svg
         height='24'
