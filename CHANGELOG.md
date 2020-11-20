@@ -1,3 +1,20 @@
+# [3.0.0](https://github.com/IBelyaev/core-components-test/compare/v2.13.0...v3.0.0) (2020-11-20)
+
+
+### Bug Fixes
+
+* **core-components-button-test:** fix bug ([77d6cd1](https://github.com/IBelyaev/core-components-test/commit/77d6cd1a1180a78bd975b3d4ed84993d23da3114))
+
+
+### Features
+
+* **core-components-loader-test:** major fixes ([b56f5aa](https://github.com/IBelyaev/core-components-test/commit/b56f5aa44eb0559cb96632f137378dc3329fc17f))
+
+
+### BREAKING CHANGES
+
+* **core-components-loader-test:** major fixes Describe changes
+
 # [2.13.0](https://github.com/IBelyaev/core-components-test/compare/v2.12.0...v2.13.0) (2020-11-19)
 
 
