@@ -7,6 +7,9 @@ import { Loader } from 'core-components-loader-test';
 
 import styles from './index.module.css';
 
+/**
+ *
+ */
 export type ComponentProps = {
     /**
      * Тип кнопкиs
