@@ -5,6 +5,13 @@
 
 * **core-components-button-test:** fix bug ([77d6cd1](https://github.com/IBelyaev/core-components-test/commit/77d6cd1a1180a78bd975b3d4ed84993d23da3114))
 
+# [core-components-button-test-v1.6.1](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.6.0...core-components-button-test-v1.6.1) (2020-11-20)
+
+
+### Bug Fixes
+
+* **core-components-button-test:** fix bug ([77d6cd1](https://github.com/IBelyaev/core-components-test/commit/77d6cd1a1180a78bd975b3d4ed84993d23da3114))
+
 # [core-components-button-test-v1.6.0](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.5.0...core-components-button-test-v1.6.0) (2020-11-19)
 
 
