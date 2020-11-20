@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/IBelyaev/core-components-test/compare/v3.0.0...v3.1.0) (2020-11-20)
+
+
+### Features
+
+* **core-components-vars-test:** add new colors ([5f89a2f](https://github.com/IBelyaev/core-components-test/commit/5f89a2f0eb10d4df1e5547135b24e7bc5823709c))
+
 # [3.0.0](https://github.com/IBelyaev/core-components-test/compare/v2.13.0...v3.0.0) (2020-11-20)
 
 
