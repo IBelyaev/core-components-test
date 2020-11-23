@@ -7,7 +7,7 @@ export type LoaderProps = {
     /**
      * Дополнительный класс
      */
-    className?: number;
+    className?: string;
 
     /**
      * Идентификатор для систем автоматизированного
