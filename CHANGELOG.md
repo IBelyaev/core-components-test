@@ -1,3 +1,10 @@
+## [3.6.1](https://github.com/IBelyaev/core-components-test/compare/v3.6.0...v3.6.1) (2020-11-25)
+
+
+### Bug Fixes
+
+* **core-components-button-test:** add some 2 ([4f6fc2f](https://github.com/IBelyaev/core-components-test/commit/4f6fc2f3ac4637d48aa818839eab9f4264ccef9f))
+
 # [3.6.0](https://github.com/IBelyaev/core-components-test/compare/v3.5.13...v3.6.0) (2020-11-25)
 
 
