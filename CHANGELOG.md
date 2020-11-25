@@ -1,3 +1,10 @@
+## [3.11.9](https://github.com/IBelyaev/core-components-test/compare/v3.11.8...v3.11.9) (2020-11-25)
+
+
+### Bug Fixes
+
+* **core-components-loader-test:** test ([f207b0a](https://github.com/IBelyaev/core-components-test/commit/f207b0a480248008980b15f4642a25fc7de71861))
+
 ## [3.11.8](https://github.com/IBelyaev/core-components-test/compare/v3.11.7...v3.11.8) (2020-11-25)
 
 
