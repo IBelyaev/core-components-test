@@ -25,6 +25,8 @@ jobs:
 
       - name: Publish root package
         run: |
+          git fetch --prune
+          git remote prune origin
           yarn semantic-release
           sh ${{ github.workspace }}/.github/workflows/publish-root-package.sh
         env:
@@ -32,6 +34,8 @@ jobs:
 
       - name: Publish separate packages
         run: |
+          git fetch --prune
+          git remote prune origin
           yarn semantic-release-lerna
           yarn lerna publish from-package --yes
         env:
