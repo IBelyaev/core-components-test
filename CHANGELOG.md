@@ -1,3 +1,10 @@
+## [3.5.10](https://github.com/IBelyaev/core-components-test/compare/v3.5.9...v3.5.10) (2020-11-25)
+
+
+### Bug Fixes
+
+* i hope again :( ([14b0f0d](https://github.com/IBelyaev/core-components-test/commit/14b0f0d8af236094d71a6c0ef1b9753cf46316c9))
+
 ## [3.5.9](https://github.com/IBelyaev/core-components-test/compare/v3.5.8...v3.5.9) (2020-11-25)
 
 
