@@ -4,6 +4,15 @@
 ### Features
 
 * **core-components-loader-test:** lolol BREAKING CHANGE:  test ([24aec0f](https://github.com/IBelyaev/core-components-test/commit/24aec0f1d1bba2ce4623148b642aab7b9ccb3de3))
+* **core-components-loader-test:** test ([ccdbe1e](https://github.com/IBelyaev/core-components-test/commit/ccdbe1ed78ef1a7b1dd980f2f9fa0e4414deb0e7))
+* **core-components-loader-test:** test ([860d4b8](https://github.com/IBelyaev/core-components-test/commit/860d4b8d63d992c4a2dc09607cf953177959c0dd))
+
+# [core-components-loader-test-v3.1.0](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v3.0.2...core-components-loader-test-v3.1.0) (2020-11-25)
+
+
+### Features
+
+* **core-components-loader-test:** lolol BREAKING CHANGE:  test ([24aec0f](https://github.com/IBelyaev/core-components-test/commit/24aec0f1d1bba2ce4623148b642aab7b9ccb3de3))
 * **core-components-loader-test:** test ([860d4b8](https://github.com/IBelyaev/core-components-test/commit/860d4b8d63d992c4a2dc09607cf953177959c0dd))
 
 # [core-components-loader-test-v3.1.0](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v3.0.2...core-components-loader-test-v3.1.0) (2020-11-25)
