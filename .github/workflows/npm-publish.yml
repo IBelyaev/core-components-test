@@ -26,7 +26,6 @@ jobs:
           #  sh ${{ github.workspace }}/.github/workflows/publish-root-package.sh
       - name: Publish root package
         run: |
-          git tag -d core-components-loader-test-v3.1.0
           yarn semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
