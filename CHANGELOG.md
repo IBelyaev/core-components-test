@@ -1,3 +1,10 @@
+# [3.8.0](https://github.com/IBelyaev/core-components-test/compare/v3.7.0...v3.8.0) (2020-11-25)
+
+
+### Features
+
+* **core-components-loader-test:** lolol BREAKING CHANGE:  test ([24aec0f](https://github.com/IBelyaev/core-components-test/commit/24aec0f1d1bba2ce4623148b642aab7b9ccb3de3))
+
 # [3.7.0](https://github.com/IBelyaev/core-components-test/compare/v3.6.3...v3.7.0) (2020-11-25)
 
 
