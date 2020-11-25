@@ -1,3 +1,10 @@
+## [3.6.3](https://github.com/IBelyaev/core-components-test/compare/v3.6.2...v3.6.3) (2020-11-25)
+
+
+### Bug Fixes
+
+* adadssdsd ([a441ba0](https://github.com/IBelyaev/core-components-test/commit/a441ba03cfb70b2e0537f9b66693688026d65a05))
+
 ## [3.6.2](https://github.com/IBelyaev/core-components-test/compare/v3.6.1...v3.6.2) (2020-11-25)
 
 
