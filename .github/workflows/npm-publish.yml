@@ -32,7 +32,7 @@ jobs:
 
       - name: Publish separate packages
         run: |
-          rm ${{ github.workspace }}.git/refs/remotes/origin/master
+          rm ${{ github.workspace }}/.git/refs/remotes/origin/master
           git fetch --prune
           yarn semantic-release-lerna
           yarn lerna publish from-package --yes
