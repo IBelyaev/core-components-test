@@ -3,6 +3,15 @@
 
 ### Bug Fixes
 
+* adadssdsd ([a441ba0](https://github.com/IBelyaev/core-components-test/commit/a441ba03cfb70b2e0537f9b66693688026d65a05))
+* adadssdsd ([35a6d1e](https://github.com/IBelyaev/core-components-test/commit/35a6d1e335a884933b33b7dd01fb8a8e95388cf0))
+* **core-components-loader-test:** add some 2 ([5a92175](https://github.com/IBelyaev/core-components-test/commit/5a921754b9259a30efc0eb4aaf0edf50f36fe079))
+
+# [core-components-loader-test-v3.0.2](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v3.0.1...core-components-loader-test-v3.0.2) (2020-11-25)
+
+
+### Bug Fixes
+
 * adadssdsd ([35a6d1e](https://github.com/IBelyaev/core-components-test/commit/35a6d1e335a884933b33b7dd01fb8a8e95388cf0))
 * **core-components-loader-test:** add some 2 ([5a92175](https://github.com/IBelyaev/core-components-test/commit/5a921754b9259a30efc0eb4aaf0edf50f36fe079))
 
