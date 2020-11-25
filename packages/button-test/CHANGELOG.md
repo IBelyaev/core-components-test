@@ -10,6 +10,18 @@
 
 * test ([ce583d0](https://github.com/IBelyaev/core-components-test/commit/ce583d0ad876db6686f3aca9e960e1468da5f4b0))
 
+# [core-components-button-test-v1.7.0](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.6.0...core-components-button-test-v1.7.0) (2020-11-25)
+
+
+### Bug Fixes
+
+* **core-components-button-test:** fix bug ([77d6cd1](https://github.com/IBelyaev/core-components-test/commit/77d6cd1a1180a78bd975b3d4ed84993d23da3114))
+
+
+### Features
+
+* test ([ce583d0](https://github.com/IBelyaev/core-components-test/commit/ce583d0ad876db6686f3aca9e960e1468da5f4b0))
+
 # [core-components-button-test-v1.7.0](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.6.0...core-components-button-test-v1.7.0) (2020-11-23)
 
 
