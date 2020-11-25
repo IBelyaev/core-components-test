@@ -19,6 +19,22 @@
 
 ### Bug Fixes
 
+* **core-components-button-test:** add some 2 ([4f6fc2f](https://github.com/IBelyaev/core-components-test/commit/4f6fc2f3ac4637d48aa818839eab9f4264ccef9f))
+* **core-components-button-test:** fix bug ([77d6cd1](https://github.com/IBelyaev/core-components-test/commit/77d6cd1a1180a78bd975b3d4ed84993d23da3114))
+* **core-components-button-test:** ololol ([1de121e](https://github.com/IBelyaev/core-components-test/commit/1de121e870c833e7e5d279bf8f29f1ece79b3fb8))
+* **core-components-button-test:** test ([fce83e0](https://github.com/IBelyaev/core-components-test/commit/fce83e09cd7cb8dd1f45a34aa226ffc7030275d0))
+
+
+### Features
+
+* **core-components-button-test:** add some ([f34ccd3](https://github.com/IBelyaev/core-components-test/commit/f34ccd3d148f060557c1a89c8a64ea84c53ac4d6))
+* test ([ce583d0](https://github.com/IBelyaev/core-components-test/commit/ce583d0ad876db6686f3aca9e960e1468da5f4b0))
+
+# [core-components-button-test-v1.7.0](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.6.0...core-components-button-test-v1.7.0) (2020-11-25)
+
+
+### Bug Fixes
+
 * **core-components-button-test:** fix bug ([77d6cd1](https://github.com/IBelyaev/core-components-test/commit/77d6cd1a1180a78bd975b3d4ed84993d23da3114))
 * **core-components-button-test:** ololol ([1de121e](https://github.com/IBelyaev/core-components-test/commit/1de121e870c833e7e5d279bf8f29f1ece79b3fb8))
 * **core-components-button-test:** test ([fce83e0](https://github.com/IBelyaev/core-components-test/commit/fce83e09cd7cb8dd1f45a34aa226ffc7030275d0))
