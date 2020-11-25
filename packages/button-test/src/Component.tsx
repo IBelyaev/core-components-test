@@ -17,7 +17,7 @@ export type ComponentProps = {
     view?: 'primary' | 'secondary' | 'outlined' | 'filled' | 'link' | 'ghost';
 
     /**
-     * Слот слева
+     * Слот слеваf
      */
     leftAddons?: React.ReactNode;
 
