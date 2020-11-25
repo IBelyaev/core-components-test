@@ -36,6 +36,7 @@ jobs:
         run: |
           git fetch --prune
           git remote prune origin
+          git gc --prune=now
           yarn semantic-release-lerna
           yarn lerna publish from-package --yes
         env:
