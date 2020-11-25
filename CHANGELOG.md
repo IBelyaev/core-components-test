@@ -1,3 +1,10 @@
+## [3.5.5](https://github.com/IBelyaev/core-components-test/compare/v3.5.4...v3.5.5) (2020-11-25)
+
+
+### Bug Fixes
+
+* add ([07688a5](https://github.com/IBelyaev/core-components-test/commit/07688a559286e63911352e2060898484837b6626))
+
 ## [3.5.4](https://github.com/IBelyaev/core-components-test/compare/v3.5.3...v3.5.4) (2020-11-25)
 
 
