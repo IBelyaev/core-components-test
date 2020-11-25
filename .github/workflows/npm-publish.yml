@@ -38,5 +38,3 @@ jobs:
           yarn lerna publish from-package --yes
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
-  
-    
