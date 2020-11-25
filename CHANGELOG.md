@@ -1,3 +1,10 @@
+## [3.11.1](https://github.com/IBelyaev/core-components-test/compare/v3.11.0...v3.11.1) (2020-11-25)
+
+
+### Bug Fixes
+
+* **core-components-loader-test:** ewewewe ([a6b7342](https://github.com/IBelyaev/core-components-test/commit/a6b734284234ed606790baa5fe9937847bb91775))
+
 # [3.11.0](https://github.com/IBelyaev/core-components-test/compare/v3.10.0...v3.11.0) (2020-11-25)
 
 
