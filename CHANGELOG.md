@@ -1,3 +1,10 @@
+## [3.5.4](https://github.com/IBelyaev/core-components-test/compare/v3.5.3...v3.5.4) (2020-11-25)
+
+
+### Bug Fixes
+
+* **core-components-button-test:** ololol ([1de121e](https://github.com/IBelyaev/core-components-test/commit/1de121e870c833e7e5d279bf8f29f1ece79b3fb8))
+
 ## [3.5.3](https://github.com/IBelyaev/core-components-test/compare/v3.5.2...v3.5.3) (2020-11-25)
 
 
