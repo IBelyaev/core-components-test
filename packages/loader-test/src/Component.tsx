@@ -10,7 +10,7 @@ export type LoaderProps = {
     className?: string;
 
     /**
-     * Идентификатор для систем автоматизированногоs
+     * Идентификатор для систем автоматизированного
      */
     dataTestId?: string;
 };
