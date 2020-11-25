@@ -52,7 +52,7 @@ export type ComponentProps = {
     dataTestId?: string;
 
     /**
-     * Показать лоадерРРРРРрррррр
+     * Показать лоадер
      */
     loading?: boolean;
 };
