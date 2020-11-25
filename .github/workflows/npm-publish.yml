@@ -30,10 +30,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
 
+      - uses: actions/checkout@v2
       - name: Publish separate packages
         run: |
-          rm ${{ github.workspace }}/.git/refs/remotes/origin/master
-          git fetch --prune
           yarn semantic-release-lerna
           yarn lerna publish from-package --yes
         env:
