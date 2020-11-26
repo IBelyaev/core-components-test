@@ -47,7 +47,7 @@ export type ComponentProps = {
     href?: AnchorHTMLAttributes<HTMLAnchorElement>['href'];
 
     /**
-     * Идентификатор для систем автоматизированного тестировани
+     * Идентификатор для систем автоматизированного
      */
     dataTestId?: string;
 
