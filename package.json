@@ -1,6 +1,6 @@
 {
   "name": "core-components-test",
-  "version": "3.11.9",
+  "version": "3.12.0",
   "private": true,
   "workspaces": [
     "packages/*"
