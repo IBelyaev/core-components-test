@@ -1,3 +1,10 @@
+## [3.13.2](https://github.com/IBelyaev/core-components-test/compare/v3.13.1...v3.13.2) (2020-12-14)
+
+
+### Bug Fixes
+
+* some fix ([3ce3150](https://github.com/IBelyaev/core-components-test/commit/3ce3150776a0570b8a0f2fb44df6e5e67074650d))
+
 ## [3.13.1](https://github.com/IBelyaev/core-components-test/compare/v3.13.0...v3.13.1) (2020-12-14)
 
 
