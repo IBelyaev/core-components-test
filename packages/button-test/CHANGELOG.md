@@ -4,6 +4,14 @@
 ### Features
 
 * **core-components-button-test:** olololol again ([367e0a5](https://github.com/IBelyaev/core-components-test/commit/367e0a552291c8dd9ed927f1dd10c964f5b18f4b))
+* **core-components-button-test:** ololololo ([82f4502](https://github.com/IBelyaev/core-components-test/commit/82f450269911000cbfb42827ee907257d914e33f))
+
+# [core-components-button-test-v1.8.0](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.7.0...core-components-button-test-v1.8.0) (2020-12-14)
+
+
+### Features
+
+* **core-components-button-test:** olololol again ([367e0a5](https://github.com/IBelyaev/core-components-test/commit/367e0a552291c8dd9ed927f1dd10c964f5b18f4b))
 
 # [core-components-button-test-v1.8.0](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.7.0...core-components-button-test-v1.8.0) (2020-12-14)
 
