@@ -12,12 +12,12 @@ import styles from './index.module.css';
  */
 export type ComponentProps = {
     /**
-     * Тип кнопкиs
+     * Тип кнопки
      */
     view?: 'primary' | 'secondary' | 'outlined' | 'filled' | 'link' | 'ghost';
 
     /**
-     * Слот слеваf
+     * Слот слева
      */
     leftAddons?: React.ReactNode;
 
