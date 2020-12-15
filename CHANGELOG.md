@@ -1,3 +1,11 @@
+## [3.15.8](https://github.com/IBelyaev/core-components-test/compare/v3.15.7...v3.15.8) (2020-12-15)
+
+
+### Bug Fixes
+
+* some for root ([c76b4d4](https://github.com/IBelyaev/core-components-test/commit/c76b4d45d8b702f695fabc4aefa9be597ed5a059))
+* **core-components-loader-test:** deleted ololol ([ba4348c](https://github.com/IBelyaev/core-components-test/commit/ba4348c41cd389451459a62d8ef02332d286a012))
+
 ## [3.15.7](https://github.com/IBelyaev/core-components-test/compare/v3.15.6...v3.15.7) (2020-12-15)
 
 
