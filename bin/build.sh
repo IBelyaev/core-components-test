@@ -5,8 +5,6 @@ set -e
 # удаляю билды
 yarn clean
 
-yarn
-
 # устанавливаем ограничение на количество параллельных процессов при сборке (default - 10)
 CONCURRENCY=${BUILD_CONCURRENCY:=10}
 
