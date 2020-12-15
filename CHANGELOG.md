@@ -1,3 +1,12 @@
+## [3.15.6](https://github.com/IBelyaev/core-components-test/compare/v3.15.5...v3.15.6) (2020-12-15)
+
+
+### Bug Fixes
+
+* **core-components-loader-test:** olololo ([bacee92](https://github.com/IBelyaev/core-components-test/commit/bacee9216f462302a46b7fab199cc3b59ea0f477))
+* for root ([e11ee2d](https://github.com/IBelyaev/core-components-test/commit/e11ee2d0d82581f429fe1a5c16801aa93b563bc9))
+* for root ([c7f41e6](https://github.com/IBelyaev/core-components-test/commit/c7f41e695fdcfc8de7cf24c2e6f8340917beed28))
+
 ## [3.15.5](https://github.com/IBelyaev/core-components-test/compare/v3.15.4...v3.15.5) (2020-12-15)
 
 
