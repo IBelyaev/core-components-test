@@ -1,3 +1,10 @@
+# [core-components-loader-test-v3.2.2](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v3.2.1...core-components-loader-test-v3.2.2) (2020-12-15)
+
+
+### Bug Fixes
+
+* **core-components-loader-test:** olololo ([bacee92](https://github.com/IBelyaev/core-components-test/commit/bacee9216f462302a46b7fab199cc3b59ea0f477))
+
 # [core-components-loader-test-v3.2.1](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v3.2.0...core-components-loader-test-v3.2.1) (2020-12-14)
 
 
