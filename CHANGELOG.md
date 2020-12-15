@@ -1,3 +1,10 @@
+## [3.15.2](https://github.com/IBelyaev/core-components-test/compare/v3.15.1...v3.15.2) (2020-12-15)
+
+
+### Bug Fixes
+
+* i wish it will work ([92d270e](https://github.com/IBelyaev/core-components-test/commit/92d270e47b2a7b88a1be153c2c1383835fc28845))
+
 ## [3.15.1](https://github.com/IBelyaev/core-components-test/compare/v3.15.0...v3.15.1) (2020-12-15)
 
 
