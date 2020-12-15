@@ -1,3 +1,10 @@
+## [3.15.1](https://github.com/IBelyaev/core-components-test/compare/v3.15.0...v3.15.1) (2020-12-15)
+
+
+### Bug Fixes
+
+* add something for ci ([a8d1216](https://github.com/IBelyaev/core-components-test/commit/a8d1216b28fb55790b6fab3e1103e0b1b6d10f1b))
+
 # [3.15.0](https://github.com/IBelyaev/core-components-test/compare/v3.14.0...v3.15.0) (2020-12-14)
 
 
