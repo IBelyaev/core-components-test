@@ -28,15 +28,13 @@ jobs:
           token: ${{ secrets.NPM_TOKEN }}
         
       - name: Publish root package
-        run: |
+        run: | # sh ${{ github.workspace }}/.github/workflows/publish-root-package.sh
           yarn semantic-release
-          sh ${{ github.workspace }}/.github/workflows/publish-root-package.sh
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
 
       - name: Publish separate packages
-        run: |
+        run: | # yarn lerna publish from-package --yes  
           yarn semantic-release-lerna
-          yarn lerna publish from-package --yes  
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
