@@ -24,6 +24,7 @@ lerna exec \
     --scope core-components-themes-test \
     -- "$copy_css && $copy_package"
 
+
 # собираю пакет themes
 lerna exec --scope core-components-themes-test -- node $(pwd)/bin/build-themes.js
 
