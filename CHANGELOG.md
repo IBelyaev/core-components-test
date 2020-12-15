@@ -1,3 +1,10 @@
+## [3.15.4](https://github.com/IBelyaev/core-components-test/compare/v3.15.3...v3.15.4) (2020-12-15)
+
+
+### Bug Fixes
+
+* ololol ([f8365b5](https://github.com/IBelyaev/core-components-test/commit/f8365b528f9cd2c788f0393e2a66a859a51b2e7f))
+
 ## [3.15.3](https://github.com/IBelyaev/core-components-test/compare/v3.15.2...v3.15.3) (2020-12-15)
 
 
