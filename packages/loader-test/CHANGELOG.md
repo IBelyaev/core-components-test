@@ -1,3 +1,10 @@
+# [core-components-loader-test-v3.2.3](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v3.2.2...core-components-loader-test-v3.2.3) (2020-12-15)
+
+
+### Bug Fixes
+
+* **core-components-loader-test:** deleted ololol ([ba4348c](https://github.com/IBelyaev/core-components-test/commit/ba4348c41cd389451459a62d8ef02332d286a012))
+
 # [core-components-loader-test-v3.2.2](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v3.2.1...core-components-loader-test-v3.2.2) (2020-12-15)
 
 
