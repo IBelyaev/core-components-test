@@ -3,6 +3,14 @@
 
 ### Features
 
+* **core-components-loader-test:** olololol ([bbfa27f](https://github.com/IBelyaev/core-components-test/commit/bbfa27ff92a45d35e7af88da413e0c115ad8ab2f))
+* **core-components-loader-test:** ololololo ([1f715b9](https://github.com/IBelyaev/core-components-test/commit/1f715b902639628ac109199d709eba0194cd9561))
+
+# [core-components-loader-test-v3.5.0](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v3.4.0...core-components-loader-test-v3.5.0) (2020-12-16)
+
+
+### Features
+
 * **core-components-loader-test:** ololololo ([1f715b9](https://github.com/IBelyaev/core-components-test/commit/1f715b902639628ac109199d709eba0194cd9561))
 
 # [core-components-loader-test-v3.5.0](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v3.4.0...core-components-loader-test-v3.5.0) (2020-12-16)
