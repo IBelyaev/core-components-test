@@ -12,7 +12,7 @@ import styles from './index.module.css';
  */
 export type ComponentProps = {
     /**
-     * Тип кнопки
+     * Тип кнопкиbbb
      */
     view?: 'primary' | 'secondary' | 'outlined' | 'filled' | 'link' | 'ghost';
 
