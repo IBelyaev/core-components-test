@@ -33,10 +33,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
 
-      - uses: actions/checkout@v2
-      - name: Build app
-        run: yarn && yarn build
-      
       - name: Publish separate packages
         run: | # yarn lerna publish from-package --yes  
           yarn semantic-release-lerna
