@@ -38,3 +38,4 @@ jobs:
           yarn semantic-release-lerna
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
+ 
