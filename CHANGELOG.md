@@ -1,3 +1,11 @@
+# [3.22.0](https://github.com/IBelyaev/core-components-test/compare/v3.21.0...v3.22.0) (2020-12-16)
+
+
+### Features
+
+* **core-components-loader-test:** deleted ololol ([09b64a6](https://github.com/IBelyaev/core-components-test/commit/09b64a62555cb7b4d9607f0a2ce288047bec92f3))
+* change ci ([a3c8a7e](https://github.com/IBelyaev/core-components-test/commit/a3c8a7ea8e297f53d8893581fd2518bc2a6727c5))
+
 # [3.21.0](https://github.com/IBelyaev/core-components-test/compare/v3.20.0...v3.21.0) (2020-12-16)
 
 
