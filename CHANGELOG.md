@@ -1,3 +1,10 @@
+# [3.20.0](https://github.com/IBelyaev/core-components-test/compare/v3.19.0...v3.20.0) (2020-12-16)
+
+
+### Features
+
+* ololol ([792a1b4](https://github.com/IBelyaev/core-components-test/commit/792a1b496e2dcd87bf9cd13120dea41c9fdbd6d3))
+
 # [3.19.0](https://github.com/IBelyaev/core-components-test/compare/v3.18.0...v3.19.0) (2020-12-16)
 
 
