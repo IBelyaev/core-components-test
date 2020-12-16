@@ -1,3 +1,16 @@
+# [core-components-button-test-v1.10.0](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.9.0...core-components-button-test-v1.10.0) (2020-12-16)
+
+
+### Bug Fixes
+
+* fix ([bd23791](https://github.com/IBelyaev/core-components-test/commit/bd2379123f829e967478c860e80e9ab873a276ed))
+
+
+### Features
+
+* **core-components-button-test:** olololo ([0997ca0](https://github.com/IBelyaev/core-components-test/commit/0997ca0c8b9bf7f287a372c21fb972c79149ffa6))
+* **core-components-button-test:** ololololo ([c8e87ff](https://github.com/IBelyaev/core-components-test/commit/c8e87ff0c8eeae6057b7fcd8e231975d49c8702c))
+
 # [core-components-button-test-v1.9.1](https://github.com/IBelyaev/core-components-test/compare/core-components-button-test-v1.9.0...core-components-button-test-v1.9.1) (2020-12-16)
 
 
