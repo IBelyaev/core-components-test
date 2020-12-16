@@ -5,12 +5,12 @@ import styles from './index.module.css';
 
 export type LoaderProps = {
     /**
-     * Дополнительный класс
+     * Дополнительный класс.
      */
     className?: string;
 
     /**
-     * Идентификатор для систем автоматизированного
+     * Идентификатор для систем автоматизированного.
      */
     dataTestId?: string;
 };
