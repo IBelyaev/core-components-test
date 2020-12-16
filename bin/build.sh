@@ -37,6 +37,6 @@ lerna exec \
 
 # копирую package.json в сборку корневого пакета
 cp package.json dist/package.json
- 
+
 # делаю корневой пакет публичным
 yarn json -f dist/package.json -I -e "delete this.private" -e "delete this.workspaces"
