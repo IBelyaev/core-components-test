@@ -1,3 +1,10 @@
+# [3.24.0](https://github.com/IBelyaev/core-components-test/compare/v3.23.1...v3.24.0) (2020-12-16)
+
+
+### Features
+
+* **core-components-button-test:** olololo ([0997ca0](https://github.com/IBelyaev/core-components-test/commit/0997ca0c8b9bf7f287a372c21fb972c79149ffa6))
+
 ## [3.23.1](https://github.com/IBelyaev/core-components-test/compare/v3.23.0...v3.23.1) (2020-12-16)
 
 
