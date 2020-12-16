@@ -1,3 +1,10 @@
+# [core-components-loader-test-v3.7.0](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v3.6.0...core-components-loader-test-v3.7.0) (2020-12-16)
+
+
+### Features
+
+* **core-components-loader-test:** lolololol ([0a1e8be](https://github.com/IBelyaev/core-components-test/commit/0a1e8be400b982bc4c5c59e6403ccfb0b7e24de1))
+
 # [core-components-loader-test-v3.6.0](https://github.com/IBelyaev/core-components-test/compare/core-components-loader-test-v3.5.0...core-components-loader-test-v3.6.0) (2020-12-16)
 
 
