@@ -1,11 +1,9 @@
-name: Create new library package
+name: Create new library package 2
 
 on:
   push:
     branches:
       - master
-    tags:
-      - core-components*
 
 jobs:
   build:
@@ -16,6 +14,22 @@ jobs:
       fail-fast: false
 
     steps:
-      - name: TEST FOR TEST
-        run: echo '__________________________Hi_______________________'
- 
+      - name: Turnstyle
+        uses: softprops/turnstyle@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
+      - uses: actions/checkout@v2
+      - name: Build app
+        run: yarn && yarn build
+
+      - name: Set NPM Token Action
+        uses: filipstefansson/set-npm-token-action@v1
+        with:
+          token: ${{ secrets.NPM_TOKEN }}
+
+      - name: Publish separate packages
+        run: |
+          yarn semantic-release-lerna
+          git status
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
