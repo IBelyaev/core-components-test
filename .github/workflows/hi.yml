@@ -1,0 +1,21 @@
+name: Create new library package
+
+on:
+  push:
+    branches:
+      - master
+    tags:
+      - core-components*
+
+jobs:
+  build:
+    env:
+      CI: true
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+
+    steps:
+      - name: TEST FOR TEST
+        run: echo '__________________________Hi_______________________'
+ 

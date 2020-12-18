@@ -11,8 +11,6 @@ module.exports = {
             '@semantic-release/npm',
             { npmPublish: false },
         ],
-        '@semantic-release/git',
-        '@semantic-release/github',
     ],
     branches: ['master'],
     repositoryUrl: 'https://github.com/IBelyaev/core-components-test',
