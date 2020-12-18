@@ -33,7 +33,7 @@ jobs:
           git status
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
-
+ 
       - name: Publish root package
         run: |
           yarn semantic-release
