@@ -32,4 +32,3 @@ jobs:
           yarn semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
- 
