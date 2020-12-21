@@ -32,6 +32,5 @@ jobs:
       - name: Publish separate packages
         run: |
           yarn semantic-release-lerna
-          git status
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
