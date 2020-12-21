@@ -27,10 +27,6 @@ jobs:
         with:
           token: ${{ secrets.NPM_TOKEN }}
 
-      - name: Update all sub packages
-        run: |
-          yarn update-packages
-
       - name: Publish root package
         run: |
           yarn semantic-release
