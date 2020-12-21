@@ -191,7 +191,7 @@
     "hooks": {
       "pre-commit": "yarn lint-staged && yarn test",
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "pre-push": "yarn standard-version --skip.changelog"
+      "pre-push": "yarn update-packages"
     }
   },
   "jest": {
