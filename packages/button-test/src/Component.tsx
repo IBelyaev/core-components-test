@@ -22,7 +22,7 @@ export type ComponentProps = {
     leftAddons?: React.ReactNode;
 
     /**
-     * Слот справа.
+     * Слот справа
      */
     rightAddons?: React.ReactNode;
 
