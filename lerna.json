@@ -5,7 +5,6 @@
     "version": "independent",
     "command": {
         "version": {
-            "allowBranch": "master",
             "message": "chore: publish",
             "ignoreChanges": [
                 "*.stories.*",
