@@ -27,6 +27,10 @@ jobs:
         with:
           token: ${{ secrets.NPM_TOKEN }}
 
+      - name: Update all sub packages
+        run: |
+          yarn update-packages
+
       - name: Publish root package
         run: |
           yarn semantic-release
@@ -39,8 +43,3 @@ jobs:
           git status
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
-
-      - name: Update all sub packages
-        run: |
-          yarn update-packages
-
