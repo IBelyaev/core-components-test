@@ -31,7 +31,7 @@
     "postbuild": "yarn purgecss",
     "purgecss": "./bin/purgecss.sh",
     "semantic-release-lerna": "lerna exec --concurrency 5 -- yarn semantic-release -e semantic-release-monorepo",
-    "update-packages": "lerna version --conventional-commits --no-git-tag-version --amend --yes",
+    "update-packages": "lerna version --no-commit-hooks --no-git-tag-version --amend --yes",
     "lerna-pub": "lerna publish from-package --yes"
   },
   "browserslist": {
@@ -189,8 +189,9 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn lint-staged && yarn test && yarn update-packages",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+      "pre-commit": "yarn lint-staged && yarn test",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-push": "yarn standard-version --skip.changelog"
     }
   },
   "jest": {
