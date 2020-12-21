@@ -39,3 +39,8 @@ jobs:
           git status
         env:
           GITHUB_TOKEN: ${{ secrets.PERMISSION_GITHUB_TOKEN }}
+
+      - name: Update all sub packages
+        run: |
+          yarn update-packages
+

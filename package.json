@@ -31,7 +31,7 @@
     "postbuild": "yarn purgecss",
     "purgecss": "./bin/purgecss.sh",
     "semantic-release-lerna": "lerna exec --concurrency 5 -- yarn semantic-release -e semantic-release-monorepo",
-    "lerna-locale": "lerna version --conventional-commits --no-git-tag-version --no-push --yes --amend",
+    "update-packages": "lerna version --conventional-commits --no-git-tag-version --no-push --amend --yes",
     "lerna-pub": "lerna publish from-package --yes"
   },
   "browserslist": {
