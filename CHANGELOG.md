@@ -1,3 +1,16 @@
+# [3.36.0](https://github.com/IBelyaev/core-components-test/compare/v3.35.3...v3.36.0) (2020-12-21)
+
+
+### Bug Fixes
+
+* fix ([635763f](https://github.com/IBelyaev/core-components-test/commit/635763f5d8f3a0a93dad92a390c06a171a2f1f86))
+* **core-components-button-test:** ololo ([da60bd4](https://github.com/IBelyaev/core-components-test/commit/da60bd4ae36b34ee7fed1aef2bf870b675786f89))
+
+
+### Features
+
+* **core-components-button-test:** new ([2779ab6](https://github.com/IBelyaev/core-components-test/commit/2779ab6207607dbdccc49e39c324b431bcbfbfef))
+
 ## [3.35.3](https://github.com/IBelyaev/core-components-test/compare/v3.35.2...v3.35.3) (2020-12-18)
 
 
