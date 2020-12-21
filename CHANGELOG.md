@@ -1,3 +1,15 @@
+# [3.39.0](https://github.com/IBelyaev/core-components-test/compare/v3.38.0...v3.39.0) (2020-12-21)
+
+
+### Bug Fixes
+
+* fix ([877a805](https://github.com/IBelyaev/core-components-test/commit/877a8050e778ea3cddb8beda32aeafde82e366d8))
+
+
+### Features
+
+* **core-components-button-test:** test ([ba423a0](https://github.com/IBelyaev/core-components-test/commit/ba423a0d1dbe38582a0f6ad6a93806977448053b))
+
 # [3.38.0](https://github.com/IBelyaev/core-components-test/compare/v3.37.2...v3.38.0) (2020-12-21)
 
 
