@@ -127,8 +127,6 @@ export const Button = React.forwardRef<HTMLAnchorElement | HTMLButtonElement, Bu
             HTMLButtonElement
         >;
 
-        // comment
-
         return (
             // eslint-disable-next-line react/button-has-type
             <button
