@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/IBelyaev/core-components-test/compare/v3.40.0...v4.0.0) (2021-01-14)
+
+
+### Features
+
+* **core-components-button-test:** major ([#132](https://github.com/IBelyaev/core-components-test/issues/132)) ([63fa08b](https://github.com/IBelyaev/core-components-test/commit/63fa08b8b92402a1956fcab3cc3198d927e45dbd))
+
+
+### BREAKING CHANGES
+
+* **core-components-button-test:** major changes
+
 # [3.40.0](https://github.com/IBelyaev/core-components-test/compare/v3.39.3...v3.40.0) (2020-12-21)
 
 
