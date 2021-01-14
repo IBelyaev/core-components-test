@@ -1,3 +1,10 @@
+# [5.1.0](https://github.com/IBelyaev/core-components-test/compare/v5.0.0...v5.1.0) (2021-01-14)
+
+
+### Features
+
+* **core-components-button-test:** breaking change you know ([9f61204](https://github.com/IBelyaev/core-components-test/commit/9f6120446a579b9d68838491c1af91eb6b54ad07))
+
 # [5.0.0](https://github.com/IBelyaev/core-components-test/compare/v4.0.0...v5.0.0) (2021-01-14)
 
 
