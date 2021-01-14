@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/IBelyaev/core-components-test/compare/v4.0.0...v5.0.0) (2021-01-14)
+
+
+### Features
+
+* major ([#134](https://github.com/IBelyaev/core-components-test/issues/134)) ([7851e25](https://github.com/IBelyaev/core-components-test/commit/7851e2572b42c89a1fb0c962a7cc59f90ef97638))
+
+
+### BREAKING CHANGES
+
+* breaking
+
 # [4.0.0](https://github.com/IBelyaev/core-components-test/compare/v3.40.0...v4.0.0) (2021-01-14)
 
 
