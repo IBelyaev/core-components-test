@@ -61,6 +61,9 @@ type AnchorButtonProps = ComponentProps & AnchorHTMLAttributes<HTMLAnchorElement
 type NativeButtonProps = ComponentProps & ButtonHTMLAttributes<HTMLButtonElement>;
 export type ButtonProps = Partial<AnchorButtonProps | NativeButtonProps>;
 
+/**
+ * LOL
+ */
 export const Button = React.forwardRef<HTMLAnchorElement | HTMLButtonElement, ButtonProps>(
     (
         {
